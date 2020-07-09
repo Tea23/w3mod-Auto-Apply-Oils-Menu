@@ -1,0 +1,4 @@
+*.w3strings
+hash
+/packed
+install_log.xml
